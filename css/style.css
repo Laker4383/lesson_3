@@ -1,0 +1,63 @@
+h1 {
+	color: red;
+}
+h2 {
+	color: indigo;
+}
+#test2323 {
+	color: lightcoral;
+}
+
+.header {
+}
+.blog {
+	color: grey;
+}
+.title {
+	color: green;
+}
+
+.text-main {
+}
+.history-block {
+	color: blue;
+}
+p.test {
+	color: hotpink;
+}
+
+.text-8 {
+	color: yellow;
+}
+
+.text-8.test2 {
+	color: green;
+}
+
+.new-block {
+	color: red;
+}
+.footer {
+}
+
+span {
+	color: brown;
+}
+p span {
+	color: hotpink;
+}
+
+.about__text,
+.block__text {
+	color: goldenrod;
+}
+[class*="__text"] {
+	color: greenyellow;
+}
+
+.text-7 {
+	color: black;
+}
+.text-7 > p {
+	color: red;
+}
